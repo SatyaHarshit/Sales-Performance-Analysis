@@ -1,6 +1,8 @@
 ![Net Sales](https://github.com/user-attachments/assets/ac1e277a-c457-4bbe-84f2-9a3a9b21bfcb)
 
-![Market Performance Vs Target](https://github.com/user-attachments/assets/60fc21ec-d69d-40e8-a8bf-6396fc3cee6e)
+
+![Market Performance Vs Target](https://github.com/user-attachments/assets/e90e81d9-a3bb-4c17-8eba-b8dc324a007a)
+
 # Sales Performance Analysis
 
 ## Project Overview
