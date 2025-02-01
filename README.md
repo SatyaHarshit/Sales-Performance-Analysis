@@ -20,7 +20,7 @@ This project analyzes customer net sales performance and market performance vs. 
 
 ## Tools Used
 - **Excel**: Data storage and pivot table creation.
-- **Power Query**: For Export, Transport and load(**ETL**) operation.
+- **Power Query**: For Extract, Transform and load(**ETL**) operation.
 - **DAX**: For Creating the DAX Measures.
 
 ## Future Enhancements
