@@ -1,7 +1,7 @@
 # Sales Performance Analysis
 
 ## Project Overview
-This project analyzes customer net sales performance and market performance vs. targets using an Excel. The pivot tables summarize key insights about sales trends and target achievements over multiple years.
+This project involves the analysis of sales performance data to identify critical business insights and improve decision-making for a retail business. Using Excel Pivot Tables and Power Query, I transformed raw sales data into meaningful insights, helping businesses understand  sales trends, and market performance.
 
 ## Dataset Details
 - **Customer Net Sales Performance**: Contains sales data from 2019 to 2021 for various customers.
